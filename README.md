@@ -10,4 +10,4 @@ the add newly created login details.
 to skip above process i have made exampleProfile.cs which allows you to pass through the process with: Username - JD1990 Password - 123
 
 
-program details - once logged in, transactions can be made in and out of the accout and the changes willbe reflected in the remaining balance.
+program details - once logged in, transactions can be made in and out of the accout and the changes will be reflected in the remaining balance.
